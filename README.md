@@ -28,3 +28,7 @@ python2 Enc.py
 # Note
 
 - [ ] Jangan Lupa Follow Github
+
+- [ ] Hasil Di Menu Nomer 7
+
+<p><img src="Screenshot_20220527-074450.png" /></p>
